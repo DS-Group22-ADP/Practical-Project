@@ -107,29 +107,30 @@ relationships between data attributes and damage grade will uncover seismic vuln
 - **27.BINARY.11** ***has_superstructure_rc_engineered:*** flag variable that indicates if the superstructure was made
   of any other material
 
-### Secondary Usage Attributes
+### :two: Secondary Usage Attributes
 
-- **28.BINARY.12** ***has_secondary_use:*** flag variable that indicates if the superstructure was made of Adobe/Mud
-- **29.BINARY.13** ***has_secondary_use_agriculture:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **30.BINARY.14** ***has_secondary_use_hotel:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **31.BINARY.15** ***has_secondary_use_rental:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **32.BINARY.16** ***has_secondary_use_institution:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **33.BINARY.17** ***has_secondary_use_industry:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **34.BINARY.18** ***has_secondary_use_health_post:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **35.BINARY.19** ***has_secondary_use_gov_office:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **36.BINARY.20** ***has_superstructure_adobe_mud:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **37.BINARY.21** ***has_secondary_use_use_police:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
-- **38.BINARY.22** ***has_secondary_use_other:*** flag variable that indicates if the superstructure was made of
-  Adobe/Mud
+- **28.BINARY.12** ***has_secondary_use:*** flag variable that indicates if the building was used
+  for any secondary purpose
+- **29.BINARY.13** ***has_secondary_use_agriculture:*** flag variable that indicates if the
+  building was used for agricultural purposes
+- **30.BINARY.14** ***has_secondary_use_hotel:*** flag variable that indicates if the building
+  was used as a hotel
+- **31.BINARY.15** ***has_secondary_use_rental:*** flag variable that indicates if the building
+  was used for rental purposes
+- **32.BINARY.16** ***has_secondary_use_institution:*** flag variable that indicates if the
+  building was used as a location of any institution
+- **33.BINARY.17** ***has_secondary_use_school:*** flag variable that indicates if the building
+  was used as a school
+- **34.BINARY.18** ***has_secondary_use_industry:*** flag variable that indicates if the building
+  was used for industrial purposes
+- **35.BINARY.19** ***has_secondary_use_health_post:*** flag variable that indicates if the
+  building was used as a health post
+- **36.BINARY.20** ***has_secondary_use_gov_office:*** flag variable that indicates if the
+  building was used fas a government office
+- **37.BINARY.21** ***has_secondary_use_use_police:*** flag variable that indicates if the
+  building was used as a police station
+- **38.BINARY.22** ***has_secondary_use_other:*** flag variable that indicates if the building
+  was secondarily used for other purposes
 
 ### Damage Impact Attributes
 
