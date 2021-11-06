@@ -67,7 +67,7 @@ relationships between data attributes and damage grade will uncover seismic vuln
 - **7.INT.4** ***height_percentage:*** Normalized height of building footprint
 - **8.INT.5** ***count_families:*** Number of families that live in a building
 
-### :books: Main Building/Land Characteristics
+### :house_with_garden: Main Building/Land Characteristics
 
 - **9.CATEGORICAL.1** ***ground_floor_type:*** type of the ground floor (GFT), Discrete: f,m,v,x,z
 - **10.CATEGORICAL.2** ***other_floor_type:*** type of construction used in higher than the ground floors (except for
@@ -76,7 +76,7 @@ relationships between data attributes and damage grade will uncover seismic vuln
   Discrete: a,r,v,w
 - **12.CATEGORICAL.4** ***plan_configuration:*** building plan configuration, Discrete: a,c,d,f,m,n,o,q,s,u
 
-### :notebook: Sub Building/Land Characteristics
+### :office: Sub Building/Land Characteristics
 
 - **13.CATEGORICAL.1** ***land_surface_condition:*** Surface condition of the land where the building was built,
   Discrete: n,o,t
@@ -107,7 +107,7 @@ relationships between data attributes and damage grade will uncover seismic vuln
 - **27.BINARY.11** ***has_superstructure_rc_engineered:*** flag variable that indicates if the superstructure was made
   of any other material
 
-### :two: Secondary Usage Attributes
+### :hospital: Secondary Usage Attributes
 
 - **28.BINARY.12** ***has_secondary_use:*** flag variable that indicates if the building was used
   for any secondary purpose
@@ -132,7 +132,7 @@ relationships between data attributes and damage grade will uncover seismic vuln
 - **38.BINARY.22** ***has_secondary_use_other:*** flag variable that indicates if the building
   was secondarily used for other purposes
 
-### Damage Impact Attributes
+### :x: Damage Impact Attributes
 
 - **39.BINARY.22** ***building_id:*** unique random identifier of a building
 - **40.BINARY.22** ***damage_grade:*** represents a level of damage to a building that was hit by earthquake,
