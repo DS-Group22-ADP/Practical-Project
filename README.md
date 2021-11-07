@@ -1,6 +1,6 @@
 <h1 align="center" style="margin-top: 10px;margin-bottom:10px;text-decoration:underline">Data Science Project</h1>
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://dl.boxcloud.com/api/2.0/internal_files/881798569803/versions/948051095403/representations/jpg_paged_2048x2048/content/1.jpg?access_token=1!rMQZkawFSsIcX6jgSTtbo8J192Nxdw7_m7GgfjoIXkWL2FvMuHOSJQxRQxfqt0qhqJabfEKFYt3BmoBR34hI9OMFO0iAezKVXt4j2pywAIB_N09juwxQP6VmHhJK-r_I7S7Z0LoFFeYBZq_refSWl3RHZ9Mr9NPEzL9b-4lnxT_T5NpnsAfqe_n18MFfek2nwgioiprtrGLdsAx4fzoh1Uot8aae8tH9cb55Zx3P42r2QdUX2-kiR_CE7v0K4G5JK5xtS4YsMgzW7tuo02Zmd3jfpbWSbCUMQYO6DksJMfk76E6d6iXtdIwJuC8Pe8SVJfBhPmS12df92JWRt9SYgMFfOKCavZMq6LqDljmfgCRlbneEmSu2EnrrFU5wYqUkQ-p_9xZlCDO4miqQGFzFqtpTkJsbQQDYqqzXur1h_gbgVCvS2fJSFSPwjf4QocRaFDN7gT_5M-YjzV8pa6wwWRJj-JcRvDjoq8PnELFA2XhIfcrbwTiw8UkHellWSecddRgISwp1HM4tBI3FzQbPWAldTZMAoUSXS68vuM82zfNY1-bGzXqdX0IFRnWGZ8HNarlhOSurp-EILID1cBua0af5o3qKubW1jkprYMIymqbiUr2wSOKN2hU6XGpT3VKd0asQzQOF3Ui1_XfzK8onULFfQlGIqB2aT4d1Z-W1cKh6Gw9-&box_client_name=box-content-preview&box_client_version=2.80.0" alt="Earthquake and Data Science" title="Earthquake and Data Science" align="center">
+  <img width="200" src="https://gis-bucket-aswinvk28.s3.eu-west-2.amazonaws.com/adp/buildings-and-earthquakes.jpg" alt="Earthquake and Data Science" title="Earthquake and Data Science" align="center">
 </p>
 
 # Understand building and land characteristics associated with earthquakes, by getting insights of data.
