@@ -51,7 +51,7 @@ foundation type; and plan configuration (also attributes in the dataset), urges 
 dataset. Data sampling, Exploratory data analysis, data pre-processing, data visualization, and finding real-world
 relationships between data attributes and damage grade will uncover seismic vulnerability to buildings.
 
-## Dataset
+## Dataset (Attribute Classification)
 
 ### :globe_with_meridians: Geographical Attributes
 
