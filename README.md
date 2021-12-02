@@ -3,7 +3,7 @@
   <img width="200" src="https://gis-bucket-aswinvk28.s3.eu-west-2.amazonaws.com/adp/buildings-and-earthquakes.jpg" alt="Earthquake and Data Science" title="Earthquake and Data Science" align="center">
 </p>
 
-# Understand building and land characteristics associated with earthquakes, by getting insights of data.
+# Understand building and land characteristics associated with earthquakes, by getting insights into data.
 
 *A Practical Project undertaken by students at Kingston University for Group 5*
 
