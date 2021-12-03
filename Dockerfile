@@ -7,7 +7,7 @@ RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 RUN python3 get-pip.py
 RUN pip3 install jupyter auto-sklearn pandas numpy scipy scikit-learn matplotlib seaborn
 
-RUN apt-get update && apt-get install software-properties-common -y
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install software-properties-common -y
 RUN add-apt-repository ppa:inkscape.dev/stable
 RUN apt-get update && apt-get install inkscape pandoc -y
 
