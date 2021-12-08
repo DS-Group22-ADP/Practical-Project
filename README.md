@@ -5,7 +5,7 @@
 
 # Understand building and land characteristics associated with earthquakes, by getting insights into data.
 
-*A Practical Project undertaken by students at Kingston University for Group 5*
+*A Practical Project undertaken by students at Kingston University for Group 22*
 
 ## Introduction
 
@@ -104,7 +104,7 @@ relationships between data attributes and damage grade will uncover seismic vuln
   made of non-engineered reinforced concrete
 - **26.BINARY.10** ***has_superstructure_rc_engineered:*** flag variable that indicates if the superstructure was made
   of engineered reinforced concrete
-- **27.BINARY.11** ***has_superstructure_rc_engineered:*** flag variable that indicates if the superstructure was made
+- **27.BINARY.11** ***has_superstructure_other:*** flag variable that indicates if the superstructure was made
   of any other material
 
 ### :hospital: Secondary Usage Attributes
