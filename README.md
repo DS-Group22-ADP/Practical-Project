@@ -20,9 +20,9 @@ represent the data in a way that it can describe patterns and observations relat
 earthquakes. The obtained patterns and observations can be further analysed, and appropriate actions can be taken by
 business or organizations to improve the quality of buildings and land (Dhar, 2013).
 
-<h3 align="center" style="margin-top: 10px;margin-bottom:10px">Data Science Process</h3>
+<h3 align="center" style="margin-top: 10px;margin-bottom:10px">Research Process</h3>
 
-![./images/DS-Process.png](./images/DS-Process.png)
+![./images/workflow.png](./images/workflow.png)
 
 ### Problem Statement
 
